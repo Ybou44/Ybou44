@@ -1,5 +1,5 @@
 ### Salut ! Merci d'être ici 👋
-- ⚡ Je suis papa d'un petit garçon et mon objectif est de devenir un Super Papa !
+- ⚡ Papa d'un petit garçon, il ne manque plus que qq points d'XP pr devenir un Super Papa !
 - 🔭 Recruteur le jour, j'explore plusieurs projets de startup avec un ami développeur la nuit.
 - 🌱 J'apprends en ce moment HTML5/CSS3 et le C...
 - 👀 Je m'intéresse à l'éduction, les startups et l'IT.

@@ -5,5 +5,5 @@
 - 👀 Je m'intéresse à l'éduction, les startups et l'IT.
 - 🇯🇵 Je suis un amoureux fou du Japon.
 - 💬 Je réponds à vos questions sur le recrutement, le freelancing, le Japon.
-- 📫 Contactez moi par mail : yann.boursier@solidskills.fr
+- 📫 Contactez moi par mail : yann@recruteur-it.fr
 - m(-_-)m Yoroshiku onegaishimasu
